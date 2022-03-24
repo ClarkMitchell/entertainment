@@ -1,1 +1,2 @@
-npm run lint-staged
+npm run lint-stagednpx lint-staged
+npx lint-staged
