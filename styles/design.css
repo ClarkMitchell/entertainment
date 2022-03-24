@@ -1,0 +1,19 @@
+:root {
+  --red: #fc4747;
+  --black: #10141e;
+  --gray: #5a698f;
+  --dark: #161d2f;
+  --light: #ffffff;
+  font-size: 15px;
+  font-weight: 300;
+  font-family: "Outfit", sans-serif;
+  color: var(--light);
+}
+
+body {
+  background-color: var(--black);
+}
+
+header {
+  background-color: var(--dark);
+}
